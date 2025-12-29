@@ -1,4 +1,4 @@
-# SentimentScope — IMDB Movie Review Sentiment (Transformer in PyTorch)
+# SentimentScope IMDB Movie Review Sentiment using Transformer in PyTorch
 
 This project builds an end-to-end **binary sentiment classifier** for movie reviews using the **IMDB Large Movie Review Dataset** and a custom **Transformer-based model** implemented in **PyTorch**. The notebook walks through loading and exploring the dataset, preparing a custom `Dataset`/`DataLoader`, training a transformer model, evaluating accuracy, and saving/loading a checkpoint for inference.
 
